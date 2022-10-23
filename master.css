@@ -59,6 +59,9 @@ ul li a {
     font-family:var(--relaway);
     text-decoration:none;
 }
+html {
+    zoom:0.75;
+}
 
 h3, h4, h2 {
     font-family: var(--relaway);
